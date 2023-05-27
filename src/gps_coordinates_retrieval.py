@@ -1,3 +1,4 @@
+# Reference : https://stackoverflow.com/questions/19727298/my-algorithm-to-calculate-position-of-smartphone-gps-and-sensors/19764828#19764828
 import math
 import pandas as pd
 
