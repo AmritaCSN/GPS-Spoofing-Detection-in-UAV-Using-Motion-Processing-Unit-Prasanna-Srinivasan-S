@@ -1,3 +1,4 @@
+//code used here is combination of arduino libraries from MPU9250, SPI, SD, NMEAGPS, and GPSport
 #include "MPU9250.h"
 #include <SPI.h>
 #include <SD.h>
