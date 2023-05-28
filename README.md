@@ -13,7 +13,8 @@ Generated dataset with features of x-axis magnetic field strength, y-axis magnet
 **gps_coordinates_retrieval**
 
 Implementation of dead reckoning with MPU9250 dataset for flight path
-libraries used pandas and math
+
+Libraries used pandas and math
 
 **Procedure**
 
